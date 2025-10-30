@@ -195,16 +195,6 @@ iᵥ = iₐ / (1 - iₐ)
 - ROI de abonos extras
 - Distribución de pagos
 
-## 🎯 Criterios de Evaluación Cumplidos
-
-| Criterio | Peso | Estado | Implementación |
-|----------|------|--------|----------------|
-| **Exactitud Financiera** | 30% | ✅ 100% | Fórmulas correctas, precisión matemática |
-| **Funcionalidad** | 25% | ✅ 100% | Todas las funciones implementadas |
-| **Interfaz/UX** | 15% | ✅ 100% | Interfaz web moderna e intuitiva |
-| **Código** | 15% | ✅ 100% | Código limpio, modular y documentado |
-| **Documentación** | 15% | ✅ 100% | README completo con ejemplos |
-
 ## 🔧 Funcionalidades Técnicas
 
 ### ⚡ **Rendimiento**
@@ -312,5 +302,6 @@ Esta aplicación web demuestra la **aplicación práctica de conceptos financier
 **¡Aplicativo listo para uso profesional y académico!** 🚀
 
 ---
+
 
 **Desarrollado con 💻 Streamlit y ☕ para Ingeniería Financiera 2025**
