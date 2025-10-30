@@ -1,0 +1,32 @@
+# Aplicativo Web de Tabla de Amortización con Streamlit
+# Proyecto de Ingeniería Financiera - 2025
+# Dependencias de Python para la aplicación web
+
+# Framework web principal
+streamlit>=1.28.0
+
+# Análisis de datos y cálculos financieros
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualizaciones interactivas
+plotly>=5.15.0
+
+# Exportación a Excel
+openpyxl>=3.1.0
+
+# Visualizaciones adicionales (opcional)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Librerías estándar de Python (incluidas por defecto)
+# - datetime: manejo de fechas
+# - io: manejo de streams de datos para descargas
+# - base64: codificación de archivos para descargas
+# - typing: type hints para mejor documentación del código
+
+# Instrucciones de instalación:
+# pip install -r requirements.txt
+
+# Ejecución de la aplicación:
+# streamlit run app_streamlit.py
